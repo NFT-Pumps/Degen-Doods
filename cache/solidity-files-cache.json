@@ -1,10 +1,10 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/jessicagreene/Documents/GitHub/Sloth-Club-NFT/contracts/SlothClubNFT.sol": {
+    "/Users/jessicagreene/Documents/GitHub/Sloth-Club-NFT/contracts/DegenDoodsNFT.sol": {
       "lastModificationDate": 1658433842860,
       "contentHash": "bad6fcc7817358d441e9ca88ad301e4a",
-      "sourceName": "contracts/SlothClubNFT.sol",
+      "sourceName": "contracts/DegenDoodsNFT.sol",
       "solcConfig": {
         "version": "0.8.11",
         "settings": {
@@ -40,7 +40,7 @@
         "^0.8.11"
       ],
       "artifacts": [
-        "SlothClubNFT"
+        "DegenDoodsNFT"
       ]
     },
     "/Users/jessicagreene/Documents/GitHub/Sloth-Club-NFT/node_modules/@openzeppelin/contracts/access/Ownable.sol": {
